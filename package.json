@@ -1,0 +1,19 @@
+{
+  "name": "ld-whitebelt-submission",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitchenerkarn/ld-whitebelt-submission.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitchenerkarn/ld-whitebelt-submission/issues"
+  },
+  "homepage": "https://github.com/kitchenerkarn/ld-whitebelt-submission#readme"
+}
